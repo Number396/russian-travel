@@ -1,7 +1,8 @@
 .places__place {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2,1fr);
+    /* grid-template-columns: repeat(2, 1fr); */
+    grid-template-columns: min-content minmax(auto,auto);
+    grid-template-rows: min-content minmax(auto,auto);
     column-gap: 40px;
     row-gap: 48px;
 }
