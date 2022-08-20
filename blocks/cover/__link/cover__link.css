@@ -1,5 +1,6 @@
 .cover__link {
     width: 100%;
+    box-sizing: border-box;
     z-index: 1;
     color: white;
     text-decoration: none;
