@@ -1,6 +1,7 @@
 .header {
     display: flex;
     max-width: calc(100% - (2 * 48px));
+    /* max-width: 1184px; */
     margin: 28px auto 56px;
     justify-content: space-between;
     align-items: center;
@@ -10,6 +11,8 @@
 {
     .header{
         margin: 28px auto 48px;
+        /* max-width: 1184px; */
+        max-width: calc(100% - (2 * 48px));
     }
 }
 
@@ -24,5 +27,6 @@
 {
     .header{
         max-width: calc(100% - (2 * 16px));
+        margin-top: 16px;
     }
 }
