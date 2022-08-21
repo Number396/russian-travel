@@ -1,10 +1,6 @@
 .lead__image {
     margin: 0;
     display: block;
-    /* max-width: 984px; */
     max-width: 100%;
-    /* min-height: 615px; */
     height: auto;
-
-
 }
