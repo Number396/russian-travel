@@ -1,5 +1,5 @@
 .header__links {
-    display: flex;
-    column-gap: 18px;
-    align-self: end;
+  display: flex;
+  column-gap: 18px;
+  align-self: end;
 }

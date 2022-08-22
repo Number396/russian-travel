@@ -1,15 +1,15 @@
 .places__website {
-    max-width: 456px;
-    height: 46px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-self: end;
+  max-width: 456px;
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-self: end;
 }
 
 @media screen and (max-width: 767px) {
-    .places__website {
-        max-width: 288px;
-        margin: 0 16px;
-    }
+  .places__website {
+    max-width: 288px;
+    margin: 0 16px;
+  }
 }
