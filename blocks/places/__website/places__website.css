@@ -1,9 +1,7 @@
 .places__website {
   max-width: 456px;
-  height: 46px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-self: end;
 }
 
